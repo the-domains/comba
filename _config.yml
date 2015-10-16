@@ -1,6 +1,6 @@
 name: comba
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6510044585447758
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.03835723898373544
